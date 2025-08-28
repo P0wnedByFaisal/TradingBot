@@ -46,4 +46,8 @@ MSFT: $318.11
 
 هنا مثال للتنبيهات من البوت في تليقرام:  
 
-![Telegram Bot Screenshot](screenshot.png)
+## 📸 Screenshots  
+
+هنا مثال للتنبيهات من البوت في تيليقرام  
+
+![Telegram Bot Screenshot](IMG_3702.png)
