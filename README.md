@@ -41,8 +41,3 @@ AAPL: $173.54
 TSLA: $240.21
 MSFT: $318.11
 
-## 📸 Screenshots  
-
-هنا مثال للتنبيهات من البوت في تيليجرام  
-
-![Telegram Bot Screenshot](https://github.com/P0wnedByFaisal/TradingBot/blob/main/IMG_3702.png?raw=true)
