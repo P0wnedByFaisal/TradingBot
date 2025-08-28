@@ -40,3 +40,10 @@ python trading_bot.py
 AAPL: $173.54
 TSLA: $240.21
 MSFT: $318.11
+
+
+## 📷 Screenshots  
+
+هنا مثال للتنبيهات من البوت في تليقرام:  
+
+![Telegram Bot Screenshot](screenshot.png)
